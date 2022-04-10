@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+	printf(" Program to display pattern in C programming");  //changes
 	int i,j,n,k;
 	printf("Enter number of rows for pattern ::");
 	scanf("%d",&n);
